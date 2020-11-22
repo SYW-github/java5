@@ -56,7 +56,7 @@ a:
             }
   用来分句
 六、实验截图
-![Image text]()
+![Image text](https://github.com/SYW-github/java5/blob/main/1606052296(1).png)
 七.实验感想
 1.通过这次实验我学会了如何读取文本文件和在文件中写入东西并存进一个新文件
 2.这次实验巩固了构造学生类的方法
